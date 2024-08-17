@@ -1,3 +1,4 @@
+@import url('https://fonts.cdnfonts.com/css/sprite-graffiti');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
 *{
@@ -7,7 +8,8 @@
     text-decoration: none;
     border: none;
     outline: none;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Sprite Graffiti', sans-serif;
+    ;
 }
 
 html{
@@ -53,6 +55,7 @@ nav a{
     font-size: 1.8rem;
     color: white;
     margin-left: 4rem;
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     transition: 0.3s ease;
     border-bottom: 3px solid transparent;
@@ -176,6 +179,7 @@ span{
     background-color: black;
     border-radius: 4rem;
     font-size: 1.6rem;
+    font-family: 'Poppins', sans-serif;
     color: #4b93b7;
     letter-spacing: 0.3rem;
     font-weight: 600;
